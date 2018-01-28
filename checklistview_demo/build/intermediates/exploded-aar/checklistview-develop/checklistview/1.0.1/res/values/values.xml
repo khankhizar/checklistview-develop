@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="selected">#22000000</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="icons_top_margin">7dp</dimen>
+    <dimen name="list_details_content_padding">12.0dip</dimen>
+    <string name="item_deleted">Item deleted</string>
+    <string name="tag_checkbox">checklistview_checkbox</string>
+    <string name="tag_deleteicon">checklistview_deleteicon</string>
+    <string name="tag_draghandle">checklistview_draghandle</string>
+    <string name="tag_edittext">checklistview_edittext</string>
+    <string name="undo">Undo</string>
+    <style name="BaseCheckListViewEditText">
+        <item name="android:cursorVisible">true</item>
+    </style>
+    <style name="CheckListViewEditText" parent="BaseCheckListViewEditText"/>
+</resources>
