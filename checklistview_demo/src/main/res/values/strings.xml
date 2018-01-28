@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2018 Khizar Heyat Khan (khizarkhan8@gmail.com)
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+
+-->
+<resources>
+
+    <string name="app_name">CheckListView</string>
+    <string name="action_toggle_checklist">Convert</string>
+    <string name="settings">Settings</string>
+    <string name="settings_lines_separator">Items separator</string>
+    <string name="settings_lines_separator_summary">String to be used to separate text into checklist items (the default is "new line")</string>
+    <string name="settings_show_hint_item">Show hint item</string>
+    <string name="settings_show_hint_item_summary">Show or not an hint item on bottom of the checklist</string>
+    <string name="settings_hint">Hint</string>
+    <string name="settings_hint_summary">Phrase to fill the new empty line on bottom of the checklist</string>
+    <string name="settings_checked_items_behavior">Checked items behavior</string>
+    <string name="settings_checked_items_behavior_summary">What to do when an item is checked?</string>
+    <string name="settings_keep_checked">Keep checked</string>
+    <string name="settings_keep_checked_summary">Do not remove checked items when converting back to simple text</string>
+    <string name="settings_show_checks">Checks symbols</string>
+    <string name="settings_show_checks_summary">Show checks symbols when converting back to simple text (parsed also for converting again into checklist with previously edited checks)</string>
+    <string name="settings_info">Info</string>
+
+</resources>
