@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6ec9a0abc75dfc86657baf4ba83b672c2d64b700.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e41dced8274fa8517f336f5385aeb8cb38f17c16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_d8563b1743d356946b935bd9e1457f4260fee7d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_9302a1b5feadebf3fd7735dc38ef2d490d5f42f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a8c3ad9c35f3cc596f538f72cc25a56cfe0db784.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_530a1eb8ecd5d18c92557cecd3abbbde02747345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\khizar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_f79867ddbebcdbf3e52bf8bc4d4034b4faab191a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_049abb0a960b2e62891fceb4448521630a6c72ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_3805838213810696052cfc4e841aeec0c6a70078.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\exploded-aar\com.github.federicoiosue\pixlui\2.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f4131e087ff7b2cf4e3014b08c552be5abbe1e1f">
+        <dex dex="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\pre-dexed\debug\com.github.federicoiosue-pixlui-2.5_bc9c67867c927ec0dbe79e660a6faecdaba3c9ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_38c9e07ccdd5393db08051c1f152b7f2ecfccec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_87ad5f414018f158b8b78de5de0f105d90a5b5b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\exploded-aar\checklistview-develop\checklistview\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="370a1d46c032130ab3591a3738764ef95b19720f">
+        <dex dex="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\pre-dexed\debug\checklistview-develop-checklistview-1.0.1_a797e50cb9014e4f58adf7beaea40a775bbee71e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0783fd136c8db09a9f9d136bc6f7f6d66fbf8e5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_2be69c1458fa001b18a9a2ea465524affb355e8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_ebcb3b69b6b02ebe9f477d52ff45bd6c2ce8bb37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_d7ea8393ea5dd2414ee7401e9b3f5d52b3842538.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_afe0d3bcf26f3e4972c51b3e57df14bea53bce11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\reference\checklistview-develop\checklistview-develop\checklistview_demo\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_beece0de1e2faa0d3a34cd01dfca5e22eced0461.jar" />
+    </item>
+
+</items>

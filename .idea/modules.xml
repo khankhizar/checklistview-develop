@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/checklistview/checklistview.iml" filepath="$PROJECT_DIR$/checklistview/checklistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checklistview-develop.iml" filepath="$PROJECT_DIR$/checklistview-develop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checklistview_demo/checklistview_demo.iml" filepath="$PROJECT_DIR$/checklistview_demo/checklistview_demo.iml" />
+    </modules>
+  </component>
+</project>
